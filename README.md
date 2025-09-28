@@ -1,0 +1,2 @@
+# StudentManager
+Just for fun
